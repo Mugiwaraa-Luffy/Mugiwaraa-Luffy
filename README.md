@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[ace](http://cdn.shopify.com/s/files/1/0241/8619/1927/articles/ace-one-piece_1200x1200.png?v=1607515619)
+![ace](http://cdn.shopify.com/s/files/1/0241/8619/1927/articles/ace-one-piece_1200x1200.png?v=1607515619)
 
 <!--
 **Mugiwaraa-Luffy/Mugiwaraa-Luffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
